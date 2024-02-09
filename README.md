@@ -1,5 +1,5 @@
 # xdp-observer
-A simple xdp application to observ tcp connections in userspace.
+A simple xdp application to observe tcp connections in userspace.
 
 ## How to run?
 ```
